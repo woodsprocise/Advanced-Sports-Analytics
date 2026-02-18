@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an Applied Data Science graduate student at **Indiana University Indianapolis** and an aspiring data analyst. I am highly motivated and am seeking to leverage my solid academic foundation, strong work ethic, innovative problem‑solving, and data science skills to contribute to a **community‑focused, forward‑thinking organization**.
+I am an Applied Data Science graduate student at **Indiana University Indianapolis**, with a business background in marketing, earning my undergraduate degree from the Lacy School of Business at **Butler University**. The type of work that I most enjoy involves thinking analytically, problem solving and story telling. I have a passion for data and numbers because of the creativity that is allowed in converting data that may not have significant meaning into actionable insights through data analysis and visualization. I enjoy the process of finding trends in data that I can tell a story with, both descriptively and visually. I am very motivated to leverage my academic foundation and strong work ethic through continuously improving my skills and knowledge to best position myself to have future impact at a **technologically driven, collaborative, and forward‑thinking organization**. 
 
 ---
 
