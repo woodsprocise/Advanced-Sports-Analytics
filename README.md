@@ -1,8 +1,17 @@
-# Woods Procise Work Portfolio
+# Woods Procise Portfolio
 
 ## About Me
-
-I am an Applied Data Science graduate student at **Indiana University Indianapolis**, with a business background in marketing, earning my undergraduate degree from the Lacy School of Business at **Butler University**. The type of work that I most enjoy involves thinking analytically, problem solving and story telling. I have a passion for data and numbers because of the creativity that is allowed in converting data that may not have significant meaning into actionable insights through data analysis and visualization. I enjoy the process of finding trends in data that I can tell a story with, both descriptively and visually. I am very motivated to leverage my academic foundation and strong work ethic through continuously improving my skills and knowledge to best position myself to have future impact at a **technologically driven, collaborative, and forward‑thinking organization**. 
+### Eduction
+- **Business background** in marketing from Butler University
+- Pursuing masters degree at Indiana University Indianapolis in **Applied Data Science**
+    - Graduate December 2026
+ 
+### Key Skills
+- Technical: SQL, VBA, Excel, Python, R, Data visualization & storytelling, Microsoft Azure
+- Process improvement, AI prompt writing, Problem solving, Written and verbal communication, Project planning
+ 
+### Career Interests
+I enjoy work that involves problem solving, analytical thinking, and delivering solutions to business. I am passionate in leveraging data and numbers to solve business problems and uncover insights to drive impact. I am very motivated to leverage my academic foundation and strong work ethic through continuously improving my skills and knowledge to best position myself to have future impact at a **technologically driven, collaborative, and forward‑thinking organization**. 
 
 ---
 
@@ -14,14 +23,6 @@ Each project below includes a brief description and a link to the full work:
 [https://colab.research.google.com/drive/1_OhEeg2NHGbY5T_1ZFhtnsE-u4Y_1JUZ]
 * **Big 10 Conference Database** — Built Big 10 Conference Football Database using real data in PhPmyadmin with 14 data tables. This relational database stores statistics for the Big 10 Conference, the teams, players, and coaches. [https://drive.google.com/file/d/1TI-fV4ITnMK7YVdGQ6mUCdQs_-YsNcq-/view?usp=sharing]
 * **Sprint Challenge #2** — Generated my own metric called the 'Win-Impact Score' (WIS) to evaluate the best players in the game of basketball through weighting player offensive efficiency, playmaking, defense, rebounding, and negative impact. This metric seeks to evaluate basketball players from a 360 degree angle by analyzing their individual value to winning from numerous statistical aspects. [https://docs.google.com/document/d/1h9cobu0o2qY_ky4Xtj55gSVvdvz9syWL/edit?usp=sharing&ouid=107189126019473342178&rtpof=true&sd=true]
-
----
-
-## Technical Skills
-
-* **Programming & Analysis:** Python, R, SQL
-* **Data Visualization:** Tableau
-* **Data & Productivity Tools:** Excel, Microsoft Word
 
 ---
 
